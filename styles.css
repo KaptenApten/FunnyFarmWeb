@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(245, 222, 195);
+    min-height: 100vh;
+    margin: 0;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    text-align:center;
+}
+
+footer {
+    min-height: 50px;
+    margin: auto;
+}
+
+header {
+    min-height: 50px;
+    margin: auto;
+
+}
