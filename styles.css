@@ -5,6 +5,7 @@ body {
     display: grid;
     grid-template-rows: auto 1fr auto;
     text-align:center;
+    max-width: 100vw;
 }
 
 footer {
@@ -16,4 +17,9 @@ header {
     min-height: 50px;
     margin: auto;
 
+}
+
+#game {
+    width: 100%; height: 10px;
+    margin: 0px;
 }
